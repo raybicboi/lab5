@@ -34,55 +34,6 @@
   },
   "Unit Tests": {
     "coverage": {
-      "/mnt/c/Users/lir6/Desktop/67373 IS Consulting/HW/Lab 5/lab5-choretracker-starter/app/models/task.rb": [
-        1,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null,
-        3,
-        2,
-        null,
-        null,
-        1,
-        1,
-        null,
-        null
-      ],
-      "/mnt/c/Users/lir6/Desktop/67373 IS Consulting/HW/Lab 5/lab5-choretracker-starter/app/models/application_record.rb": [
-        1,
-        1,
-        null
-      ],
-      "/mnt/c/Users/lir6/Desktop/67373 IS Consulting/HW/Lab 5/lab5-choretracker-starter/app/models/chore.rb": [
-        1,
-        null,
-        1,
-        1,
-        null,
-        null,
-        1,
-        1,
-        1,
-        1,
-        1,
-        1,
-        null,
-        null,
-        1,
-        null,
-        null,
-        1,
-        0,
-        0,
-        null,
-        0,
-        null,
-        null,
-        null
-      ],
       "/mnt/c/Users/lir6/Desktop/67373 IS Consulting/HW/Lab 5/lab5-choretracker-starter/app/models/child.rb": [
         1,
         null,
@@ -104,6 +55,55 @@
         null,
         1,
         0,
+        null,
+        null
+      ],
+      "/mnt/c/Users/lir6/Desktop/67373 IS Consulting/HW/Lab 5/lab5-choretracker-starter/app/models/application_record.rb": [
+        1,
+        1,
+        null
+      ],
+      "/mnt/c/Users/lir6/Desktop/67373 IS Consulting/HW/Lab 5/lab5-choretracker-starter/app/models/task.rb": [
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null,
+        1,
+        1,
+        null,
+        null
+      ],
+      "/mnt/c/Users/lir6/Desktop/67373 IS Consulting/HW/Lab 5/lab5-choretracker-starter/app/models/chore.rb": [
+        1,
+        null,
+        1,
+        1,
+        null,
+        null,
+        3,
+        2,
+        2,
+        2,
+        2,
+        2,
+        null,
+        null,
+        1,
+        null,
+        null,
+        1,
+        7,
+        3,
+        null,
+        4,
+        null,
         null,
         null
       ],
@@ -359,6 +359,6 @@
         0
       ]
     },
-    "timestamp": 1612494194
+    "timestamp": 1612496445
   }
 }

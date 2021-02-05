@@ -53,5 +53,15 @@ class ChoreTest < ActiveSupport::TestCase
     should "display the status of sweeping [@mc1] as 'Pending'" do
       assert_equal "Pending", @mc1.status
     end
+
+    should "ensure correctness of status method" do
+      assert_equal "Pending", @ac1.status
+      assert_equal "Pending", @ac2.status
+      assert_equal "Pending", @mc2.status
+      assert_equal "Completed", @ac4.status
+      assert_equal "Completed", @mc3.status
+
+
+    end
   end
 end
